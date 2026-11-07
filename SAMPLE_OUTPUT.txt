@@ -1,0 +1,22 @@
+FRESHMART - RETAIL SALES SUMMARY
+
+Total revenue       : Rs. 44,101.95
+Number of orders    : 150
+Units sold          : 505
+Average order value : Rs. 294.01
+
+Sales by category:
+Groceries        : Rs. 14,068.60
+Personal Care    : Rs. 13,695.75
+Dairy            : Rs. 9,726.60
+Beverages        : Rs. 4,163.50
+Snacks           : Rs. 2,447.50
+
+Top 5 products by units sold:
+Butter 100g       : 56
+Potato Chips      : 37
+Sugar 1kg         : 36
+Cooking Oil 1L    : 36
+Yogurt Pack       : 33
+
+Note: Generated from the included fictional sample dataset.
