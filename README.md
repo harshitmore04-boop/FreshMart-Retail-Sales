@@ -44,7 +44,7 @@ All records are fictional and provided for educational demonstration.
 - `retail_dashboard.py` — main Python program
 - `freshmart_sales.csv` — input dataset
 - `requirements.txt` — Python dependencies
-- `Project_Presentation.pptx` — project presentation slides
+- `Project_Presentation_Outline.md` — text outline of the 12-slide presentation
 - `output/` — generated dashboard and summary files (created on first run)
 
 ## Customizing
