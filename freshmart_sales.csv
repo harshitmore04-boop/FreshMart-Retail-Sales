@@ -1,0 +1,151 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,Discount_Percent,Total_Sales,Payment_Mode
+FM1001,2026-05-21,Sugar 1kg,Groceries,1,48,0,48.0,Cash
+FM1002,2026-02-22,Milk 1L,Dairy,6,58,10,313.2,Cash
+FM1003,2026-01-16,Potato Chips,Snacks,1,25,0,25.0,Cash
+FM1004,2026-01-14,Butter 100g,Dairy,5,62,10,279.0,Cash
+FM1005,2026-04-23,Soft Drink 750ml,Beverages,4,45,5,171.0,Card
+FM1006,2026-03-23,Shampoo 200ml,Personal Care,1,145,5,137.75,UPI
+FM1007,2026-04-21,Shampoo 200ml,Personal Care,2,145,0,290.0,Cash
+FM1008,2026-02-19,Cooking Oil 1L,Groceries,4,155,0,620.0,UPI
+FM1009,2026-08-24,Shampoo 200ml,Personal Care,1,145,10,130.5,Cash
+FM1010,2026-10-10,Biscuits Pack,Snacks,1,30,0,30.0,Card
+FM1011,2026-04-09,Face Wash,Personal Care,5,175,0,875.0,Cash
+FM1012,2026-02-10,Butter 100g,Dairy,3,62,0,186.0,Cash
+FM1013,2026-08-21,Biscuits Pack,Snacks,3,30,0,90.0,Cash
+FM1014,2026-04-18,Face Wash,Personal Care,3,175,0,525.0,Card
+FM1015,2026-03-29,Cooking Oil 1L,Groceries,5,155,10,697.5,Card
+FM1016,2026-08-25,Butter 100g,Dairy,2,62,5,117.8,UPI
+FM1017,2026-06-16,Soft Drink 750ml,Beverages,2,45,0,90.0,Cash
+FM1018,2026-07-25,Wheat Flour 5kg,Groceries,3,245,0,735.0,Cash
+FM1019,2026-06-11,Yogurt Pack,Dairy,5,75,0,375.0,Card
+FM1020,2026-08-23,Fruit Juice 1L,Beverages,4,95,0,380.0,UPI
+FM1021,2026-10-15,Milk 1L,Dairy,2,58,10,104.4,UPI
+FM1022,2026-07-24,Potato Chips,Snacks,5,25,0,125.0,Cash
+FM1023,2026-09-10,Milk 1L,Dairy,5,58,0,290.0,Cash
+FM1024,2026-03-23,Sugar 1kg,Groceries,2,48,5,91.2,Card
+FM1025,2026-07-15,Cooking Oil 1L,Groceries,4,155,10,558.0,UPI
+FM1026,2026-10-11,Mineral Water 1L,Beverages,3,20,0,60.0,Card
+FM1027,2026-10-02,Sugar 1kg,Groceries,6,48,0,288.0,Card
+FM1028,2026-05-31,Soap Pack,Personal Care,1,110,5,104.5,Cash
+FM1029,2026-05-15,Chocolate Bar,Snacks,1,40,10,36.0,Cash
+FM1030,2026-06-02,Mineral Water 1L,Beverages,1,20,10,18.0,Card
+FM1031,2026-07-11,Yogurt Pack,Dairy,2,75,0,150.0,Card
+FM1032,2026-06-15,Mineral Water 1L,Beverages,1,20,5,19.0,Cash
+FM1033,2026-06-07,Sugar 1kg,Groceries,3,48,0,144.0,Cash
+FM1034,2026-02-10,Butter 100g,Dairy,5,62,0,310.0,Card
+FM1035,2026-09-30,Fruit Juice 1L,Beverages,1,95,0,95.0,Cash
+FM1036,2026-03-26,Fruit Juice 1L,Beverages,5,95,0,475.0,Card
+FM1037,2026-10-04,Potato Chips,Snacks,2,25,0,50.0,Card
+FM1038,2026-07-11,Toothpaste,Personal Care,4,85,5,323.0,Card
+FM1039,2026-05-07,Chocolate Bar,Snacks,1,40,0,40.0,Cash
+FM1040,2026-10-11,Soap Pack,Personal Care,1,110,0,110.0,Card
+FM1041,2026-02-06,Butter 100g,Dairy,1,62,0,62.0,Cash
+FM1042,2026-06-19,Cooking Oil 1L,Groceries,1,155,0,155.0,Card
+FM1043,2026-09-06,Butter 100g,Dairy,3,62,0,186.0,Card
+FM1044,2026-10-20,Milk 1L,Dairy,6,58,10,313.2,UPI
+FM1045,2026-07-28,Butter 100g,Dairy,4,62,0,248.0,Cash
+FM1046,2026-08-09,Sugar 1kg,Groceries,6,48,0,288.0,UPI
+FM1047,2026-01-28,Potato Chips,Snacks,4,25,0,100.0,Cash
+FM1048,2026-06-23,Biscuits Pack,Snacks,6,30,0,180.0,Cash
+FM1049,2026-10-02,Yogurt Pack,Dairy,2,75,5,142.5,Cash
+FM1050,2026-05-23,Potato Chips,Snacks,2,25,5,47.5,Cash
+FM1051,2026-10-09,Cooking Oil 1L,Groceries,4,155,0,620.0,Cash
+FM1052,2026-02-17,Soft Drink 750ml,Beverages,1,45,0,45.0,Cash
+FM1053,2026-09-04,Potato Chips,Snacks,4,25,0,100.0,UPI
+FM1054,2026-07-14,Wheat Flour 5kg,Groceries,2,245,0,490.0,UPI
+FM1055,2026-05-27,Shampoo 200ml,Personal Care,4,145,5,551.0,Card
+FM1056,2026-09-07,Soft Drink 750ml,Beverages,6,45,0,270.0,Cash
+FM1057,2026-01-30,Toothpaste,Personal Care,2,85,10,153.0,Card
+FM1058,2026-06-10,Soft Drink 750ml,Beverages,1,45,0,45.0,Cash
+FM1059,2026-09-29,Fruit Juice 1L,Beverages,5,95,0,475.0,Cash
+FM1060,2026-04-06,Mineral Water 1L,Beverages,1,20,0,20.0,Card
+FM1061,2026-05-01,Cooking Oil 1L,Groceries,6,155,5,883.5,Cash
+FM1062,2026-01-21,Butter 100g,Dairy,5,62,10,279.0,Cash
+FM1063,2026-10-26,Potato Chips,Snacks,6,25,10,135.0,Card
+FM1064,2026-04-15,Soap Pack,Personal Care,3,110,0,330.0,Cash
+FM1065,2026-03-09,Shampoo 200ml,Personal Care,4,145,0,580.0,UPI
+FM1066,2026-01-05,Soap Pack,Personal Care,1,110,5,104.5,Card
+FM1067,2026-10-03,Sugar 1kg,Groceries,1,48,0,48.0,Card
+FM1068,2026-06-28,Shampoo 200ml,Personal Care,2,145,0,290.0,Cash
+FM1069,2026-03-22,Face Wash,Personal Care,3,175,5,498.75,Card
+FM1070,2026-09-28,Toothpaste,Personal Care,5,85,0,425.0,Card
+FM1071,2026-02-23,Soft Drink 750ml,Beverages,3,45,0,135.0,UPI
+FM1072,2026-10-11,Sugar 1kg,Groceries,1,48,0,48.0,UPI
+FM1073,2026-04-18,Toothpaste,Personal Care,5,85,0,425.0,Cash
+FM1074,2026-09-08,Shampoo 200ml,Personal Care,5,145,0,725.0,Cash
+FM1075,2026-08-05,Cooking Oil 1L,Groceries,6,155,0,930.0,Cash
+FM1076,2026-03-08,Rice 5kg,Groceries,3,320,0,960.0,Cash
+FM1077,2026-08-07,Chocolate Bar,Snacks,5,40,10,180.0,Cash
+FM1078,2026-03-18,Sugar 1kg,Groceries,1,48,10,43.2,Cash
+FM1079,2026-10-10,Face Wash,Personal Care,5,175,0,875.0,UPI
+FM1080,2026-06-07,Milk 1L,Dairy,1,58,0,58.0,Cash
+FM1081,2026-05-08,Face Wash,Personal Care,2,175,0,350.0,UPI
+FM1082,2026-03-21,Soft Drink 750ml,Beverages,4,45,0,180.0,Cash
+FM1083,2026-01-13,Cheese 200g,Dairy,4,125,0,500.0,Card
+FM1084,2026-05-08,Soap Pack,Personal Care,4,110,0,440.0,Cash
+FM1085,2026-01-20,Sugar 1kg,Groceries,4,48,5,182.4,Cash
+FM1086,2026-06-29,Yogurt Pack,Dairy,4,75,0,300.0,Cash
+FM1087,2026-04-09,Butter 100g,Dairy,1,62,5,58.9,UPI
+FM1088,2026-05-23,Shampoo 200ml,Personal Care,1,145,0,145.0,Card
+FM1089,2026-10-02,Mineral Water 1L,Beverages,4,20,0,80.0,Cash
+FM1090,2026-04-02,Sugar 1kg,Groceries,3,48,10,129.6,UPI
+FM1091,2026-08-11,Wheat Flour 5kg,Groceries,1,245,0,245.0,Card
+FM1092,2026-09-19,Soap Pack,Personal Care,4,110,0,440.0,UPI
+FM1093,2026-01-23,Yogurt Pack,Dairy,3,75,5,213.75,Cash
+FM1094,2026-04-11,Mineral Water 1L,Beverages,5,20,0,100.0,UPI
+FM1095,2026-06-19,Cooking Oil 1L,Groceries,6,155,10,837.0,UPI
+FM1096,2026-06-03,Sugar 1kg,Groceries,6,48,10,259.2,UPI
+FM1097,2026-07-26,Potato Chips,Snacks,3,25,0,75.0,Card
+FM1098,2026-08-04,Milk 1L,Dairy,2,58,5,110.2,Card
+FM1099,2026-10-19,Cheese 200g,Dairy,5,125,0,625.0,UPI
+FM1100,2026-06-05,Soft Drink 750ml,Beverages,1,45,0,45.0,Cash
+FM1101,2026-06-14,Potato Chips,Snacks,5,25,5,118.75,UPI
+FM1102,2026-04-20,Chocolate Bar,Snacks,6,40,10,216.0,UPI
+FM1103,2026-02-13,Cheese 200g,Dairy,6,125,0,750.0,Card
+FM1104,2026-05-01,Soap Pack,Personal Care,1,110,0,110.0,Cash
+FM1105,2026-01-13,Yogurt Pack,Dairy,2,75,0,150.0,Cash
+FM1106,2026-02-07,Fruit Juice 1L,Beverages,5,95,5,451.25,UPI
+FM1107,2026-07-16,Yogurt Pack,Dairy,6,75,5,427.5,UPI
+FM1108,2026-01-03,Butter 100g,Dairy,2,62,0,124.0,UPI
+FM1109,2026-09-23,Butter 100g,Dairy,2,62,5,117.8,Cash
+FM1110,2026-03-04,Soft Drink 750ml,Beverages,2,45,5,85.5,Cash
+FM1111,2026-09-29,Chocolate Bar,Snacks,6,40,10,216.0,Card
+FM1112,2026-09-16,Soap Pack,Personal Care,4,110,5,418.0,Card
+FM1113,2026-09-01,Chocolate Bar,Snacks,2,40,5,76.0,UPI
+FM1114,2026-05-22,Butter 100g,Dairy,6,62,10,334.8,UPI
+FM1115,2026-08-14,Butter 100g,Dairy,3,62,0,186.0,Card
+FM1116,2026-05-20,Toothpaste,Personal Care,2,85,0,170.0,UPI
+FM1117,2026-03-12,Soft Drink 750ml,Beverages,1,45,0,45.0,Cash
+FM1118,2026-03-20,Biscuits Pack,Snacks,6,30,0,180.0,Cash
+FM1119,2026-06-19,Potato Chips,Snacks,4,25,10,90.0,UPI
+FM1120,2026-04-16,Potato Chips,Snacks,1,25,5,23.75,UPI
+FM1121,2026-07-14,Rice 5kg,Groceries,5,320,5,1520.0,Cash
+FM1122,2026-07-19,Face Wash,Personal Care,3,175,5,498.75,Card
+FM1123,2026-04-23,Soft Drink 750ml,Beverages,5,45,5,213.75,Cash
+FM1124,2026-09-06,Shampoo 200ml,Personal Care,4,145,0,580.0,UPI
+FM1125,2026-07-27,Soap Pack,Personal Care,6,110,0,660.0,UPI
+FM1126,2026-10-01,Milk 1L,Dairy,5,58,0,290.0,UPI
+FM1127,2026-08-08,Rice 5kg,Groceries,1,320,0,320.0,UPI
+FM1128,2026-05-14,Cheese 200g,Dairy,1,125,5,118.75,UPI
+FM1129,2026-06-17,Yogurt Pack,Dairy,4,75,0,300.0,UPI
+FM1130,2026-05-10,Shampoo 200ml,Personal Care,4,145,0,580.0,UPI
+FM1131,2026-10-04,Rice 5kg,Groceries,6,320,0,1920.0,UPI
+FM1132,2026-02-05,Butter 100g,Dairy,6,62,0,372.0,Cash
+FM1133,2026-01-11,Butter 100g,Dairy,2,62,10,111.6,Cash
+FM1134,2026-08-31,Butter 100g,Dairy,2,62,0,124.0,Card
+FM1135,2026-05-12,Yogurt Pack,Dairy,4,75,0,300.0,Cash
+FM1136,2026-06-09,Sugar 1kg,Groceries,2,48,0,96.0,Card
+FM1137,2026-10-22,Rice 5kg,Groceries,3,320,5,912.0,UPI
+FM1138,2026-05-05,Yogurt Pack,Dairy,1,75,0,75.0,Card
+FM1139,2026-03-03,Toothpaste,Personal Care,6,85,10,459.0,Cash
+FM1140,2026-08-08,Face Wash,Personal Care,5,175,0,875.0,Cash
+FM1141,2026-06-24,Mineral Water 1L,Beverages,6,20,0,120.0,UPI
+FM1142,2026-08-10,Fruit Juice 1L,Beverages,1,95,0,95.0,Card
+FM1143,2026-03-20,Chocolate Bar,Snacks,6,40,5,228.0,Cash
+FM1144,2026-05-19,Mineral Water 1L,Beverages,6,20,10,108.0,Card
+FM1145,2026-08-12,Fruit Juice 1L,Beverages,4,95,10,342.0,UPI
+FM1146,2026-02-14,Soap Pack,Personal Care,2,110,0,220.0,UPI
+FM1147,2026-10-19,Butter 100g,Dairy,4,62,10,223.2,Card
+FM1148,2026-01-15,Biscuits Pack,Snacks,3,30,5,85.5,UPI
+FM1149,2026-04-19,Cheese 200g,Dairy,4,125,0,500.0,UPI
+FM1150,2026-05-22,Soap Pack,Personal Care,3,110,10,297.0,Cash
